@@ -1,14 +1,26 @@
-layout_spectrum: 0.8689989687409252
-typography_spectrum: 0.10516988509334624
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4946237
 color:
-  brandStrength: 0.33832387579604983
-  lightness: 0.9001530203968287
   saturation: 0.7341872891411185
-  rhythmicContrast: 0.4523819067981094
+  brandStrength: 0.3383238757960498
+  lightness: 0.9001530203968287
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#B2C3B7'
+    - '#F8FDFF'
+    - '#404334'
+    - '#949C96'
+    - '#1B1D17'
+  rhythmicContrast: 0.4523819067981094
+layout_spectrum: 0.1845878
 name: Dapperman
