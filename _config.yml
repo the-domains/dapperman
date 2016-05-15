@@ -1,4 +1,3 @@
-layout_spectrum: 0.8689989687409252
 typography_spectrum: 0.10516988509334624
 color:
   brandStrength: 0.33832387579604983
@@ -11,4 +10,9 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.8689989687409252
+author:
+  name: Guernsey
+  email: fguernsey@mac.com
 name: Dapperman
+title: Do Good
